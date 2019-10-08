@@ -1,0 +1,5 @@
+- Color picker;
+- Number of incomplete tasks;
+- Incomplete tasks list;
+- Completed tasks list.
+
