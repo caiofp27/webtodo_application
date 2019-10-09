@@ -4,8 +4,8 @@ a, a:hover{
 
 .title{
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 30px;
+    margin: 30px;
+    background-color: #ffe385;
 }
 
 .list-icon{
@@ -19,10 +19,29 @@ a, a:hover{
 }
 
 .box{
-    background-color: azure;
-    margin-left: 3px;
+    margin: 3px;
+
+}
+
+.box-completed{
+    background-color: #d1ccbc;
 }
 
 .trash-icon{
     float: right;
+}
+
+@media only screen and (max-width: 720px){
+    h3{
+        font-size: 18px;
+    }
+    h4{
+        font-size: 14px;
+    }
+    .form-control, p{
+        font-size: 13px;
+    }
+    a{
+        font-size: 11px;
+    }
 }

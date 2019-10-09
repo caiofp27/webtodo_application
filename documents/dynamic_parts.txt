@@ -2,4 +2,7 @@
 - Number of incomplete tasks;
 - Incomplete tasks list;
 - Completed tasks list.
-
+- Number of completed task;
+- Delete selected / individual task;
+- Complete selected / individual task;
+- 
